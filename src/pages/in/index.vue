@@ -7,7 +7,7 @@
         <i-input :value="dataForm.remark" type="textarea" title="备注" placeholder="请输入详细地址(最多50字)" maxlength="50" />
       </i-panel>
       <i-panel title="请上传图片，最多5张">
-        <image v-for="" src="/static/images/plus.png" @click="chooseImage" data-index='1' class="in-upload"></image>
+        <image v-for="item in 5" src="/static/images/plus.png" @click="chooseImage" data-index='1' class="in-upload"></image>
         <image src="/static/images/plus.png" @click="chooseImage" data-index='1' class="in-upload"></image>
       </i-panel>
       <i-button @click="chooseImage" type="info">提交</i-button>
