@@ -1,9 +1,14 @@
 {
-  "navigationBarTitleText": "车辆入场",
+  "navigationBarTitleText": "车辆出场",
   "usingComponents": {
     "i-card": "../../../static/iview/dist/card/index",
     "i-button": "../../../static/iview/dist/button/index",
     "i-row": "../../../static/iview/dist/row/index",
-    "i-col": "../../../static/iview/dist/col/index"
+    "i-col": "../../../static/iview/dist/col/index",
+    "i-input": "../../../static/iview/dist/input/index",
+    "i-panel": "../../../static/iview/dist/panel/index",
+    "i-icon": "../../../static/iview/dist/icon/index",
+    "i-toast": "../../../static/iview/dist/toast/index",
+    "i-spin": "../../../static/iview/dist/spin/index"
   }
 }

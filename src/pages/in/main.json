@@ -7,6 +7,9 @@
     "i-col": "../../../static/iview/dist/col/index",
     "i-input": "../../../static/iview/dist/input/index",
     "i-panel": "../../../static/iview/dist/panel/index",
-    "i-icon": "../../../static/iview/dist/icon/index"
+    "i-icon": "../../../static/iview/dist/icon/index",
+    "i-toast": "../../../static/iview/dist/toast/index",
+    "i-spin": "../../../static/iview/dist/spin/index"
+
   }
 }
